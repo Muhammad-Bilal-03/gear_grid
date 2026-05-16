@@ -31,7 +31,16 @@ A cyberpunk-themed gaming peripheral ecommerce application built with **Flutter*
 
 ## 📸 Screenshots
 
-> *Coming soon — screenshots of the Auth screen, Home screen, Combo Deals, Cart, and Profile.*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/89733927-35ab-44ad-9157-c1f70a801f91" width="230" />
+  <img src="https://github.com/user-attachments/assets/a5ef5e01-c1e1-4466-b1fd-b6f49d3c1f29" width="230" />
+  <img src="https://github.com/user-attachments/assets/ef906143-cdd3-4d2f-a7dc-f3d8435f6204" width="230" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7f7b6cb3-edd0-4f52-91f8-5066b0dfcb91" width="230" />
+  <img src="https://github.com/user-attachments/assets/d7c99aca-8134-41cc-8280-9e60b2b0c309" width="230" />
+  <img src="https://github.com/user-attachments/assets/1ffd578f-9300-4532-acec-3b2394ca177b" width="230" />
+</p>
 
 ---
 
@@ -169,6 +178,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 **Muhammad Bilal**
 - GitHub: [@Muhammad-Bilal-03](https://github.com/Muhammad-Bilal-03)
+- LinkedIn: [Muhammad Bilal](https://www.linkedin.com/in/muhammad-bilal-bsse)
 
 ---
 
